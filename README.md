@@ -1,2 +1,2 @@
-# gin-get-started
+# gin-notes
 > Gin get started.

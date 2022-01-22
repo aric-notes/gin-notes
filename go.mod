@@ -1,4 +1,4 @@
-module github.com/gin-get-started
+module github.com/gin-notes
 
 go 1.17
 
